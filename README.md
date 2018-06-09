@@ -1,8 +1,10 @@
 ![Garous](https://raw.githubusercontent.com/raphiki/garous/master/images/header.png  "Garous")
 
+[Règles du jeu](https://github.com/raphiki/garous/raw/master/garous-v1.0.pdf) | [Feuille de personnage](https://github.com/raphiki/garous/raw/master/feuille-personnage-v1.0.pdf) 
+
 ## Pourquoi un Jeu de Rôle libre ?
 
-La réponse à cette question est sensiblement la même que celle donnée à la question du pourquoi d'un logiciel libre. C'est une excellente manière de concevoir, parfaire et étoffer un jeu de rôle[jeu de rôle](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le)  puisque chacun est libre de l'utiliser, le modifier et le distribuer ou de distribuer sa propre version. La contribution et la coopération du plus grand nombre ne peut qu'être bénéfique au jeu lui-même et donc au final à tous ses utilisateurs.
+La réponse à cette question est sensiblement la même que celle donnée à la question du pourquoi d'un logiciel libre. C'est une excellente manière de concevoir, parfaire et étoffer un [jeu de rôle](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le)  puisque chacun est libre de l'utiliser, le modifier et le distribuer ou de distribuer sa propre version. La contribution et la coopération du plus grand nombre ne peut qu'être bénéfique au jeu lui-même et donc au final à tous ses utilisateurs.
 
 ## Les Esprits Originels
 
